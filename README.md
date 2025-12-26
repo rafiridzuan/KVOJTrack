@@ -2,6 +2,8 @@
 
 A clean, lightweight, and smart internship application tracker. No login, no servers, just your browser.
 
+**🔗 Live Demo:** [https://kvojtrack.netlify.app/](https://kvojtrack.netlify.app/)
+
 ![Dashboard](./docs/DashboardPage.jpeg)
 
 ## **Overview**
